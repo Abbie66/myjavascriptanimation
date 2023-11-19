@@ -105,8 +105,8 @@ coverflowimages({
         ['image2.jpg', 'Golden Decade Delights: Hits from the 2010s'],
         ['image3.jpg', 'Vintage Vibes: Rhythm & Blues Chronicles (1950s-1960s)'],
         ['image4.jpg', 'Retro Rewind: RnB Grooves and Classic Covers (1980s-1990s)'],
-        ['image1.jpg', 'Echoes of Eternity: Unforgettable Hits Since the 1800s'],
-        ['image2.jpg', 'Heartstrings Harmony: Melodious Love Anthems'],
+        ['image5.jpg', 'Echoes of Eternity: Unforgettable Hits Since the 1800s'],
+        ['image6.jpg', 'Heartstrings Harmony: Melodious Love Anthems'],
     ]
 })
 
